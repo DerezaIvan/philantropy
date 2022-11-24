@@ -1,0 +1,424 @@
+@media screen and (max-width: 1299px) {
+  .header .container {
+    justify-content: space-between;
+  }
+  .header-action {
+    margin-left: 0;
+  }
+  .main img {
+    width: 100%;
+    max-width: 633px;
+  }
+  .main-title {
+    font-size: 45px;
+    line-height: 60px;
+  }
+  .main-text {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .info-main img,
+  .info-main img:last-child,
+  .info-main2 img {
+    width: 93%;
+  }
+  .info-main2 > ul > li img {
+    max-width: 26px;
+  }
+  .info-main2 .button {
+    margin-left: 150px;
+  }
+  .result ul {
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+  }
+  .result ul > li {
+    column-gap: 15px;
+  }
+  #result-img {
+    padding-left: 30px;
+    max-width: 530px;
+    object-fit: contain;
+  }
+  .child img {
+    width: 100%;
+  }
+  .news img {
+    width: 100%;
+  }
+  .help .container {
+    justify-content: space-evenly;
+  }
+  .help-cards {
+    justify-content: center;
+  }
+  .join .button {
+    margin-left: 70px;
+  }
+  .testimonails-card {
+    max-width: 350px;
+    top: -235px;
+    right: -225px;
+  }
+  .testimonails-card img {
+    width: 100%;
+  }
+  .testimonails .container {
+    column-gap: 20px;
+  }
+  .testimonails-subtitle-card {
+    font-size: 16px;
+    margin-left: 10px;
+  }
+  .testimonails .container-point li {
+    padding-top: 10px;
+    padding-bottom: 14px;
+  }
+  .title {
+    font-size: 30px;
+    line-height: 35px;
+  }
+  .footer-title p {
+    max-width: 288px;
+  }
+  .menu-list {
+    display: flex;
+  }
+}
+@media screen and (max-width: 1023px) {
+  .main img {
+    max-width: 420px;
+  }
+  .card-title {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .main-title {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .main div > button {
+    margin-right: 12px;
+  }
+  .info-main2 img {
+    padding-left: 20px;
+  }
+  .info-main2 .info-subtitle {
+    padding-left: 20px;
+  }
+  .info-main2 li {
+    padding-left: 20px;
+  }
+  .info-main2 p {
+    font-size: 13px;
+  }
+  .info-main2 .button {
+    padding: 13px;
+    margin-left: 0;
+  }
+  #result-img {
+    max-width: 420px;
+  }
+  .help-card {
+    width: 320px;
+  }
+  .join .button,
+  .button-about {
+    padding: 13px;
+  }
+  .join .title {
+    max-width: 300px;
+  }
+  .testimonails img {
+    max-width: 450px;
+  }
+  .testimonails-card {
+    max-width: 270px;
+    top: -203px;
+    right: -186px;
+  }
+  .testimonails-subtitle-card {
+    font-size: 12px;
+  }
+  .testimonails-card p {
+    padding-top: 25px;
+  }
+  .testimonails-card p:last-child {
+    padding-bottom: 45px;
+  }
+  .join-two .title {
+    font-size: 18px;
+    max-width: 240px;
+    padding-top: 50px;
+    padding-left: 20px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .header .menu {
+    display: none;
+  }
+  .header-action img {
+    display: none;
+  }
+  .main {
+    flex-direction: column;
+  }
+  .info .container {
+    flex-direction: column;
+  }
+  .result .container {
+    flex-direction: column;
+    align-items: center;
+  }
+  .help-card {
+    max-width: 178px;
+  }
+  .help-card img {
+    max-width: 120px;
+  }
+  .help-cards {
+    gap: 15px;
+  }
+  .testimonails .container {
+    flex-direction: column;
+  }
+  .footer {
+    flex-direction: column;
+    margin-top: 100px;
+    padding-top: 100px;
+    padding-bottom: 30px;
+  }
+  .card-title {
+    font-size: 35px;
+    line-height: 40px;
+  }
+  .card-subtitle {
+    font-size: 13px;
+    line-height: 14px;
+  }
+  .main img {
+    width: 100%;
+    padding-top: 20px;
+  }
+  .info .container {
+    padding-top: 100px;
+  }
+  .info-main img:last-child {
+    padding-bottom: 20px;
+  }
+  .info-main2 img {
+    padding-left: 0;
+  }
+  .info-main2 .info-subtitle {
+    padding-left: 0;
+  }
+  .info-main2 li {
+    padding-left: 0;
+  }
+  .result {
+    padding-top: 80px;
+  }
+  .text {
+    font-size: 18px;
+  }
+  .title {
+    font-size: 24px;
+    line-height: 30px;
+    max-width: 320px;
+  }
+  .result-subtitle {
+    font-size: 24px;
+  }
+  .result .button {
+    margin-top: 20px;
+  }
+  #result-img {
+    width: 100%;
+    padding-left: 0;
+    padding-top: 20px;
+  }
+  .video {
+    margin-top: 0;
+  }
+  .paragraph {
+    display: block;
+    border: none;
+  }
+  .child {
+    background: #ffd4a4;
+    max-height: 250px;
+  }
+  .child-text p {
+    font-size: 15px;
+    line-height: 25px;
+  }
+  .help {
+    padding-top: 80px;
+  }
+  .help .button {
+    padding: 5px;
+    font-size: 13px;
+  }
+  .help .title {
+    max-width: 250px;
+  }
+  .help .container {
+    justify-content: center;
+  }
+  .join .title {
+    padding: 120px 0 120px 30px;
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .join .button,
+  .button-about {
+    padding: 10px;
+    font-size: 13px;
+  }
+  .join .button {
+    margin-left: 20px;
+  }
+  .join .button-about {
+    margin-left: 15px;
+    margin-right: 5px;
+  }
+  .testimonails img {
+    width: 100%;
+  }
+  .testimonails-card {
+    max-width: 220px;
+    top: -165px;
+    right: -165px;
+  }
+  .testimonails .container-point:last-child {
+    padding-top: 0;
+  }
+  .news {
+    padding-top: 100px;
+  }
+  .card-text {
+    padding-top: 20px;
+    padding-left: 10px;
+  }
+  .news .news-card-item h3 {
+    padding-left: 10px;
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .news .news-card-item p:nth-child(3) {
+    padding-left: 10px;
+    margin-bottom: 20px;
+  }
+  .news-card-item {
+    top: -5px;
+    left: 0;
+  }
+  .menu-list {
+    order: 4;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+  }
+  .menu {
+    margin-left: 0;
+  }
+  .join-two {
+    order: 3;
+  }
+  .join-two .title {
+    margin: 0 auto;
+    padding-left: 0;
+    font-size: 18px;
+    max-width: 240px;
+    padding-top: 30px;
+  }
+  .join-two .button {
+    margin: 16px 48px 0;
+    padding: 10px;
+  }
+  .join-two .button-about {
+    margin: 16px 48px 10px;
+  }
+}
+@media screen and (max-width: 424px) {
+  .logo img {
+    max-width: 135px;
+  }
+  .button {
+    font-size: 13px;
+    padding: 10px;
+  }
+  .main div > button {
+    padding: 10px;
+    font-size: 13px;
+  }
+  .card-title {
+    font-size: 20px;
+    line-height: 26px;
+  }
+  .card-subtitle {
+    font-size: 12px;
+    line-height: 14px;
+  }
+  .donate .container {
+    column-gap: 5px;
+  }
+  .info-main2 > ul > li img {
+    max-width: 18px;
+  }
+  .video .container p {
+    font-size: 16px;
+  }
+  #button {
+    margin-bottom: 390px;
+  }
+  .child {
+    max-height: 340px;
+  }
+  .paragraph {
+    padding-bottom: 50px;
+  }
+  .child-text h3 {
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+
+  .testimonails-card {
+    top: -50px;
+    right: -58px;
+  }
+  .help .container {
+    justify-content: center;
+    flex-direction: column;
+  }
+  .join {
+    padding-top: 80px;
+  }
+  .join .container {
+    flex-direction: column;
+  }
+  .join .title {
+    padding-bottom: 60px;
+  }
+  .join .button {
+    margin-left: 0;
+  }
+  .join .button-about {
+    margin: 10px 0;
+  }
+  .news-cards {
+    flex-direction: column;
+  }
+  .footer {
+    margin-top: 50px;
+    padding-top: 50px;
+    row-gap: 15px;
+  }
+  .info-main2 .button {
+    padding: 10px;
+  }
+  .video .container {
+    padding-top: 100px;
+  }
+}
