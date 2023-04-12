@@ -1,8 +1,15 @@
-# Philantropy
+# Проект : Philantropy
 
 Адаптивный сайт про благотворительность в африке. 
 
-Флексы, гриды кроссбраузерная и адаптивная вёрстка. 
+**-Адаптивная верстка для всех расширении.**
 
-Ссылка на проект 
-[https://derezaivan.github.io/Philantropy/]
+**-Кроссбраузерная верстка.**
+
+**-Flex**
+
+**-Grid**
+
+**Ссылка на проект GitHub**
+
+* [Philantropy]( https://derezaivan.github.io/Philantropy/)
