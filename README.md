@@ -12,4 +12,4 @@
 
 **Ссылка на проект GitHub**
 
-* [Philantropy]( https://derezaivan.github.io/Philantropy/)
+* [Philantropy]( https://derezaivan.github.io/philantropy/)
